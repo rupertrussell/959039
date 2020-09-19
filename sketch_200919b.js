@@ -1,10 +1,11 @@
 // Fork of https://www.openprocessing.org/sketch/959039
 // by kartik which is a fork of perlin noise by Otis Chou.
-// 
+// code on github at: https://github.com/rupertrussell/959039
+// artwork on redbubble at: https://www.redbubble.com/shop/ap/57912903?ref=studio-promote
 
 var dots = []
 const factor = 0.008
-const count = 800000 // was 2000
+const count = 800000 // was 200000  was 2000
 const size = 5000 // was 500
 const radius = size * 0.8 / 2
 function setup() {
